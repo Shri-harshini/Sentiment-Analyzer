@@ -15,16 +15,16 @@ A full-stack web application for analyzing text sentiment using machine learning
 
 ```
 AI Sentiment Analyzer/
-|-- app.py                 # Main Flask application
-|-- model.py               # Sentiment analysis model
-|-- dataset.csv            # Sample training dataset
-|-- requirements.txt       # Python dependencies
-|-- README.md             # Project documentation
+|-- app.py                
+|-- model.py              
+|-- dataset.csv            
+|-- requirements.txt       
+|-- README.md           
 |-- templates/
-|   |-- index.html        # Frontend interface
+|   |-- index.html      
 |-- static/
-|   |-- style.css         # Styling
-|   |-- script.js         # Frontend JavaScript
+|   |-- style.css         
+|   |-- script.js         
 ```
 
 ## Installation
