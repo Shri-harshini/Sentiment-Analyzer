@@ -239,5 +239,10 @@ This project is open source and available under the MIT License.
 - [ ] Model performance comparison
 - [ ] REST API documentation
 
-<img width="1920" height="904" alt="Screenshot 2026-04-15 101646" src="https://github.com/user-attachments/assets/fd5a39e9-4d15-4f49-a776-41702bddb619" />
+<img width="1920" height="935" alt="Screenshot 2026-04-15 101555" src="https://github.com/user-attachments/assets/1af28c23-3f4d-41f6-93b7-bca78b0171dd" />
+<img width="1920" height="881" alt="Screenshot 2026-04-15 101623" src="https://github.com/user-attachments/assets/bbad0a66-cce2-42bc-842b-3b9b80227ef7" />
+<img width="1920" height="904" alt="Screenshot 2026-04-15 101646" src="https://github.com/user-attachments/assets/94f0977f-819d-4a54-bbe8-d72f2ee1e39f" />
+
+
+
 
