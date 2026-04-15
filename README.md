@@ -239,10 +239,4 @@ This project is open source and available under the MIT License.
 - [ ] Model performance comparison
 - [ ] REST API documentation
 
-## Support
 
-If you encounter any issues or have questions, please check the troubleshooting section or create an issue in the project repository.
-
----
-
-**Built with Flask, Scikit-learn, and Machine Learning**
